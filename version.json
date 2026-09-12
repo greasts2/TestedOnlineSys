@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "version_name": "1.0.0",
+  "total_size": 9173064,
+  "libs": [
+    "libfunctions.so",
+    "liblogin.so",
+    "libmenu.so"
+  ]
+}
